@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tpcleadership.com	TRUE	/	FALSE	1999999999	dt_user_ip	deleted
+tpcleadership.com	TRUE	/	FALSE	1999999999	dt_user_country	deleted
+tpcleadership.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
